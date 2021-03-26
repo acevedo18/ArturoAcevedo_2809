@@ -1,0 +1,19 @@
+----------Definición encontrada---------
+Organización
+Es la creación de una estructura, la cual
+determine las jerarquías necesarias y
+agrupación de actividades, con el fin de
+simplificar las mismas y sus funciones
+dentro del grupo social.
+En un centro de cómputo la organización
+debe existir de parte del administrador
+hacia sus subordinados de manera
+imparcial y se debe llevar a cabo de acuerdo a las funciones que a cada departamento ó área correspondan y estas a su vez deben ser delegadas por el administrador de centro de cómputo ó sistemas.
+
+------Definición propia-------------
+la Organización es determinar un modelo jerarquico para la realización de tareas y la asignacion de recursos para el desarrollo de las diferentes actividades que correspondan a cada persona que forma el grupo de desarrollo del proyecto o equipo de trabajo.
+
+ejemplo el administrador tiene la obligación de realizar en su centro de computo funciones como la de llevar un
+control de los empleados para cual requerirán una base de datos misma que se deberá plantear al analista, a su vez el
+analista deberá entregar un reporte al programador, mismo que tendrá que entregar el esqueleto de la base de datos al capturista para que este de “alta” a los empleados, y el capturista debe entregar la base de datos ya capturada al
+operador de computadoras, mismo que se encargara de operarla
