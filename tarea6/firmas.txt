@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------
+documento hola.c 1ra version 
+
+$ shasum -a 1 hola.c
+9040c2e7e2de4e7faffb22baed6e00d1772dffb4 *hola.c
+
+
+$ shasum -a 256 hola.c
+394187aabb5e17264e4984c7c0893184567622d7d180642c7dae0150d0dee049 *hola.c
+
+--------------------------------------------------------------------------
+documento hola.c 2da version
+
+$ shasum -a 1 hola.c
+f994ffdca5b012f5b4afcc82ab230028b8e098d8 *hola.c
+
+$ shasum -a 256 hola.c
+54c8b8955349d62530e2d53b9762cb03d95f14b78d8b1963ef969ba042f9e305 *hola.c
+
+---------------------------------------------------------------------------
+documento hola.c 3ra version 
+
+$ shasum -a 1 hola.c
+9040c2e7e2de4e7faffb22baed6e00d1772dffb4 *hola.c
+
+
+$ shasum -a 256 hola.c
+394187aabb5e17264e4984c7c0893184567622d7d180642c7dae0150d0dee049 *hola.c
